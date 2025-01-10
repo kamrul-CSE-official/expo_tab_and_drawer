@@ -9,7 +9,7 @@ const HomeScreen = () => {
       <Link href="/posts" asChild>
         <Button title="Posts" />
       </Link>
-      <Link href="/lists/index" asChild>
+      <Link href="/lists" asChild>
         <Button title="Lists" />
       </Link>
       <Text>

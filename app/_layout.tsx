@@ -41,7 +41,6 @@ const RootLayout = () => {
       <Stack.Screen
         name="lists/index.tsx"
         options={{
-          title: "Lists",
           headerShown: false,
         }}
       />
